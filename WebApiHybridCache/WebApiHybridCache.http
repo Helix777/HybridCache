@@ -1,0 +1,8 @@
+@WebApiHybridCache_HostAddress = http://localhost:5041
+
+###
+
+GET {{WebApiHybridCache_HostAddress}}/weather-hybrid-cache/krakow
+Accept: application/json
+
+###
